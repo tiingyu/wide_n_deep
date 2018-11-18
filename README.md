@@ -35,6 +35,7 @@ DNN：使用deep时的变量
 
 3、模型
 reference: https://blog.csdn.net/sxf1061926959/article/details/78440220
+           https://github.com/tensorflow/tensorflow/blob/r1.12/tensorflow/contrib/learn/python/learn/estimators/dnn_linear_combined.py
            
           
            
